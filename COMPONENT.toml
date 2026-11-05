@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-sticky-notes"
+description = "SigmaOS subsystem component for sticky-notes"
+version = "0.1.0"
+tier = 5
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources"]
