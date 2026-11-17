@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-sticky-notes"
-description = "SigmaOS subsystem component for sticky-notes"
+description = "Sticky notes applet"
 version = "0.1.0"
 tier = 5
 
